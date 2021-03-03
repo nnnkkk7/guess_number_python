@@ -11,6 +11,5 @@ def guess(x):
             print("high number!!!!")   
     
     print("Great!!! The nunmber!!!!!")
-
-
+# guess number between 1 and 10
 guess(10)    
